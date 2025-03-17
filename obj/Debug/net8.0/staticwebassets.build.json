@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VIDSgH3KqAh3uf6yl4+LcX/BICtWlpCLd0N1+1XpTdE=",
+  "Source": "AuthUser",
+  "BasePath": "_content/AuthUser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
