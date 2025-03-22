@@ -65,3 +65,5 @@ C:\Users\nubbd\OneDrive\Área de Trabalho\projetos\pessoais\Imobiliaria\AuthUser
 C:\Users\nubbd\OneDrive\Área de Trabalho\projetos\pessoais\Imobiliaria\AuthUser\bin\Debug\net8.0\Npgsql.dll
 C:\Users\nubbd\OneDrive\Área de Trabalho\projetos\pessoais\Imobiliaria\AuthUser\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\nubbd\OneDrive\Área de Trabalho\projetos\pessoais\Imobiliaria\AuthUser\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nubbd\OneDrive\Área de Trabalho\projetos\pessoais\Imobiliaria\AuthUser\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\nubbd\OneDrive\Área de Trabalho\projetos\pessoais\Imobiliaria\AuthUser\obj\Debug\net8.0\AuthUser.sourcelink.json
