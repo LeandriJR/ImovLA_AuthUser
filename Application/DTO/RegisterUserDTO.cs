@@ -7,5 +7,5 @@ public class RegisterUserDTO
     public string Password { get; set; }
     public string UserName { get; set; }
     
-    public Guid? RoleId { get; set; }
+    public List<Guid>? Roles { get; set; }
 }
